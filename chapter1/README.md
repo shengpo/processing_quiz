@@ -47,7 +47,7 @@
 - 網格中，每個格子的顏色來自於該格子的中心點座標對應至圖片上相同座標點的顏色
 - 根據滑鼠的座標，可以動態改變x軸方向的格子數量，以及y軸方向的格子數量
 
-![](https://raw.github.com/shengpo/processing_quiz/master/chapter1/gifs/quiz5.gif)
+![](https://lh3.googleusercontent.com/-EUcUoO1OwdA/UnnP4W6TEHI/AAAAAAAASYk/ta3Uzj1lYVA/w304-h160-no/quiz5.gif)
 
 
 ---------------
@@ -79,5 +79,5 @@
 - 離滑鼠越近的圓，該直徑越小
 - 離滑鼠越遠的圓，該直徑便越大，但最大不會超過預設的直徑大小
 
-![](https://raw.github.com/shengpo/processing_quiz/master/chapter1/gifs/quiz8.gif)
+![](https://lh5.googleusercontent.com/-430qLtyzPks/UnnP_7kt1oI/AAAAAAAASYk/MlxYBOXdV2c/s304-no/quiz8.gif)
 
